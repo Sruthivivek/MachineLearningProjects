@@ -17,4 +17,4 @@ __Machine Learning__ is all about __Data__ and deep __Analysis__ on it. To get a
 
 Code is here!
 
-[Click here to see the Analysis](https://github.com/Sruthivivek/MachineLearningProjects/tree/master/ILP%20Data%20Analysis/ILP%20Data%20Analysis)
+[Click here to see the Analysis](https://github.com/Sruthivivek/MachineLearningProjects/tree/master/IPL%20Data%20Analysis/)
